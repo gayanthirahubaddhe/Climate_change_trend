@@ -1,0 +1,55 @@
+Global Warming Rate :
+Average global warming rate: 0.0067 °C/year
+This implies approximately 0.67 °C of warming per century, based on observed land surface data
+
+Geographic Risk Zones:
+Low Warming (< 0.005 °C/year): 772 cities
+Moderate Warming (0.005–0.03 °C/year): 2,738 cities
+High Warming (> 0.03 °C/year): 0 cities in current thresholding
+(You may consider lowering the high-risk threshold if you want more granularity)
+
+Regional Variations in Warming:
+Region	              Average Trend (°C/year)
+Temperate/Northern	  0.0060
+Temperate/Southern	  0.0081
+Tropics	              0.0077
+
+Temperate Southern regions show the highest warming rate, followed closely by the Tropics
+Temperate Northern regions are warming more slowly in comparison
+
+Hemispheric Comparison:
+Hemisphere	Average Trend (°C/year)
+Northern	  0.0064
+Southern	  0.0084
+
+The Southern Hemisphere is warming faster than the Northern Hemisphere in this dataset
+
+Latitude Correlation:
+Correlation between warming trend and absolute latitude: -0.51
+This moderate negative correlation suggests lower latitudes (nearer the Equator) tend to experience higher warming rates, contrary to the Arctic amplification often seen in global models. This could be due to data density or regional land-atmosphere interactions
+
+Cities with Highest Warming Trends:
+| **City** | **Country** | **Trend (°C/year)** |
+| -------- | ----------- | ------------------- |
+| Edmonton | Canada      | 0.0114              |
+| Doha     | Qatar       | 0.0106              |
+| Talara   | Peru        | 0.0106              |
+| Tumbes   | Peru        | 0.0106              |
+| Bojnurd  | Iran        | 0.0105              |
+
+These hotspots show warming trends over 1°C per century, highlighting regions of rapid climate shifts
+
+Cities with Lowest Warming Trends:
+| **City**     | **Country** | **Trend (°C/year)** |
+| ------------ | ----------- | ------------------- |
+| Algeciras    | Spain       | 0.00278             |
+| Cadiz        | Spain       | 0.00278             |
+| Tangier      | Morocco     | 0.00278             |
+| Jerez        | Spain       | 0.00278             |
+| Dos Hermanas | Spain       | 0.00287             |
+
+These cities show much slower warming, potentially due to maritime influence or stable local climates
+
+Conxlusion:
+Southern Hemisphere and tropical regions show relatively higher warming.Several urban centers in the Middle East and Northern South America are heating up rapidly, which may require urgent climate adaptation strategies.
+The dataset does not currently reflect extreme cold trends—indicating near-universal warming
