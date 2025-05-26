@@ -1,12 +1,12 @@
 🌍 Global Warming Trend Analysis - City Temperature Data
 
-This project analyzes long-term temperature trends across thousands of global cities using R. 
+This project analyses long-term temperature trends across thousands of global cities using R. 
 The goal is to identify patterns of climate warming, understand regional and hemispheric 
 differences, and highlight the most affected areas.
 
 📊 Objectives
 
-🌡️ Analyze temperature trends in cities worldwide over time
+🌡️ Analyse temperature trends in cities worldwide over time
 🌍 Compare warming rates across regions and hemispheres
 🚦 Classify cities into risk zones based on warming intensity
 🔥 Identify cities with the fastest warming trends
@@ -68,7 +68,7 @@ By Hemisphere:
 
 Place GlobalLandTemperaturesByCity.csv in your R working directory.
 Run the R script city_warming_analysis.R to reproduce the analysis.
-View tables and visualizations in the RStudio console and Plots pane.
+View tables and visualisations in the RStudio console and Plots pane.
 
 📂 Project Structure
 
