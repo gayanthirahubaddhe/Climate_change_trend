@@ -14,6 +14,7 @@ This project analyses long-term temperature trends across thousands of global ci
 
 📉 Examine areas with the lowest or slowest warming rates
 
+
 🔍 Dataset
 
 Source: GlobalLandTemperaturesByCity.csv
@@ -33,17 +34,20 @@ IDE: RStudio
 
 Libraries: tidyverse, lubridate, dplyr, ggplot2, broom, scales
 
+
 📈 Key Insights
 
 Global Average Warming Trend: 0.0067 °C/year
 
 Trend vs. Latitude: Negative correlation (r = -0.507), indicating faster warming in lower latitudes (tropical zones)
 
+
 Risk Levels:
 
 🔴 Moderate/High Warming: 2,738 cities
 
 🟢 Low Warming: 772 cities
+
 
 By Region:
 
@@ -52,6 +56,7 @@ By Region:
 🌿 Temperate/Southern: 0.0081 °C/year
 
 🔥 Tropics: 0.0077 °C/year
+
 
 By Hemisphere:
 
@@ -79,6 +84,7 @@ By Hemisphere:
 | Tangier   | Morocco | 0.00278         |
 | Sevilla   | Spain   | 0.00287         |
 
+
 🛠️ How to run, download or clone this repository
 
 Place GlobalLandTemperaturesByCity.csv in your R working directory.
@@ -86,6 +92,7 @@ Place GlobalLandTemperaturesByCity.csv in your R working directory.
 Run the R script city_warming_analysis.R to reproduce the analysis.
 
 View tables and visualisations in the RStudio console and Plots pane.
+
 
 📂 Project Structure
 
