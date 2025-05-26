@@ -15,6 +15,7 @@ This project analyses long-term temperature trends across thousands of global ci
 📉 Examine areas with the lowest or slowest warming rates
 
 
+
 🔍 Dataset
 
 Source: GlobalLandTemperaturesByCity.csv
