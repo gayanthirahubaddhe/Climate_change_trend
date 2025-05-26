@@ -57,18 +57,20 @@ By Hemisphere:
 | Tangier   | Morocco | 0.00278         |
 | Sevilla   | Spain   | 0.00287         |
 
-🛠️ How to Run
-Download or clone this repository.
+🛠️ How to run, download or clone this repository
+
 Place GlobalLandTemperaturesByCity.csv in your R working directory.
 Run the R script city_warming_analysis.R to reproduce the analysis.
 View tables and visualizations in the RStudio console and Plots pane.
 
 📂 Project Structure
+
 city_warming_analysis.R — Main analysis script
 GlobalLandTemperaturesByCity.csv — Dataset used for analysis
 README.md — Project overview and documentation
 
 📌 Notes
+
 The dataset contains over 3,500 cities with daily data processed into long-term warming trends.
 Risk classification is based on the linear regression slope per city.
 Code includes filtering, aggregation, correlation, and ranking of results.
